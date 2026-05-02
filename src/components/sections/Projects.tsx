@@ -252,7 +252,7 @@ export default function Projects() {
           }}
         >
           <a
-            href="https://github.com/iankinoti"
+            href="https://github.com/iankinoti-cloud/my_portfolio"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 font-medium text-sm px-6 py-3 rounded-full"

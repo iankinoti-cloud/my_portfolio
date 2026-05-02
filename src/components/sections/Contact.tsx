@@ -4,7 +4,7 @@ import { useRef, useState } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 
 const socials = [
-  { label: 'GitHub',    href: 'https://github.com/IANKHELAN',                   icon: '⌥' },
+  { label: 'GitHub',    href: 'https://github.com/iankinoti-cloud/my_portfolio', icon: '⌥' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/ian-khelan-040371407/', icon: '◈' },
   { label: 'Instagram', href: 'https://www.instagram.com/khelan_websites_kenya', icon: '◇' },
 ];
